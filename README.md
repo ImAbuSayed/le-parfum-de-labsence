@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-parfum-de-labsence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Le Parfum De L'absence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-parfum-de-labsence/) |
+| **Get License** | [Music Rights & Licensing for Le Parfum De L'absence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-parfum-de-labsence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum flotte encore sur le siège passager
+> Dans la nuit parisienne, mon regard est captivé
+> T'as laissé ton empreinte, ce frisson sur ma peau
+> C'est le parfum de l'absence, et j'en suis devenu accro
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
