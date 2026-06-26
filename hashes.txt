@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Le Parfum De L'absence
+
+This log tracks the cryptographic history and versioning for the song **Le Parfum De L'absence** (le-parfum-de-labsence).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T19:00:22.849444 | `v1` | `9c71c2ec694e503d5e62fced06fb5aff84880dcc755959be700f96093c171998` | `ea5160429687aeeba2f8f8867a4bc26d98e35cd54e4bad7a2d6a86786ff8e2d1` | `2026-06-26_le-parfum-de-labsence-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
